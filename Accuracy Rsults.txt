@@ -1,0 +1,38 @@
+Question: What is diabetes?
+True Answer: Diabetes is a chronic condition characterized by high levels of sugar (glucose) in the blood.
+Bot Answer:
+Diabetes mellitus is a chronic disease that occurs when either the pancreas does not produce enough insulin, or when the body cannot effectively use the insulin it produces. Insulin is a hormone that regulates blood glucose levels in the body and hyperglycaemia is a common effect of uncontrolled diabetes, leading to damage to many of the body's systems over time.
+----------------------------------------
+Question: What are the main types of diabetes?
+True Answer: The main types of diabetes are Type 1, Type 2, and gestational diabetes.
+Bot Answer: Type 1 Diabetes, Type 2 Diabetes and Gestational Diabetes are the main types of diabetes.
+----------------------------------------
+Question: What is Type 1 diabetes?
+True Answer: Type 1 diabetes is a condition in which the immune system attacks and destroys insulin-producing beta cells in the pancreas.
+Bot Answer: Type 1 diabetes is an autoimmune disease in which the body's immune system destroys the cells in the pancreas that produce insulin, leading to a lack of insulin production and high blood sugar levels.
+----------------------------------------
+Question: What is Type 2 diabetes?
+True Answer: Type 2 diabetes is a condition in which the body becomes resistant to insulin or does not produce enough insulin.
+Bot Answer: Type 2 diabetes, also known as non-insulin dependent diabetes mellitus (NIDDM), is a metabolic disorder characterized by high blood glucose levels that result from insufficient insulin production or inadequate insulin action.
+It is the most common form of diabetes, accounting for 90% of all cases.
+----------------------------------------
+Question: What is gestational diabetes?
+True Answer: Gestational diabetes is a type of diabetes that develops during pregnancy and usually goes away after the baby is born.
+Bot Answer:  Gestational diabetes is a form of diabetes that occurs during pregnancy. It is characterized by elevated blood glucose levels in pregnant women who did not have diabetes before pregnancy.
+----------------------------------------
+Question: What are the symptoms of diabetes?
+True Answer: Symptoms of diabetes include increased thirst, frequent urination, extreme fatigue, blurred vision, and slow-healing sores.
+Bot Answer: The symptoms of diabetes may include excessive thirst, frequent urination, unexplained weight loss, fatigue, and weakness.
+----------------------------------------
+Question: How is diabetes diagnosed?
+True Answer: Diabetes is diagnosed through blood tests such as the fasting blood glucose test, oral glucose tolerance test, and A1C test.
+Bot Answer:
+Diabetes is diagnosed through a combination of clinical assessment and laboratory testing. The clinical assessment includes a thorough medical history, physical examination, and observation of symptoms. Laboratory tests, such as fasting blood sugar and hemoglobin A1c, provide objective measures of glucose levels in the body. These tests can confirm the diagnosis of diabetes.
+----------------------------------------
+Question: What is the A1C test?
+True Answer: The A1C test measures the average blood glucose levels over the past 2-3 months.
+Bot Answer: The A1C test, also known as the hemoglobin A1C test, measures the average amount of glucose in your blood over the past 2-3 months. It's used to diagnose and monitor diabetes and to see if you have high blood sugar levels.
+----------------------------------------
+Question: Can diabetes be cured?
+True Answer: There is no cure for diabetes, but it can be managed through medication, lifestyle changes, and monitoring blood sugar levels.
+Bot Answer: Diabetes mellitus is a chronic disease that cannot be completely cured but can be managed with lifestyle changes, medications, and insulin therapy. The disease can go into remission, which means that the symptoms will lessen or disappear for an extended period of time. However, it is not possible to completely eliminate the disease.
